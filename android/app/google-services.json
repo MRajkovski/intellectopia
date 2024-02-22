@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540863649912",
+    "project_id": "intellectopia",
+    "storage_bucket": "intellectopia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540863649912:android:655781eccd13eeaf96f58d",
+        "android_client_info": {
+          "package_name": "intellectopia.com.intellectopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZGME9HszwE98Vmn1Vnp2wAi3VsXF73k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

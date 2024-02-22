@@ -1,3 +1,16 @@
-# Intellectopia
+# intellectopia
 
-### Discover a world of knowledge tailored to your interests with our app. Create a unique user profile, and we'll serve you fascinating trivia and facts personalized just for you. Whether you're passionate about science, history, pop culture, or any other topic, our app will keep you engaged and informed with a continuous stream of intriguing information. Start your journey of learning and exploration with trivia and facts that match your curiosity and preferences.
+Intellectopia
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
