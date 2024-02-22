@@ -1,4 +1,4 @@
-# Flutter TikTok Clone Documentation
+# Intellectopia Documentation
 
 ## Introduction
 This documentation provides an overview and guidance for setting up and understanding the structure of a Flutter project used for MIS 2024
