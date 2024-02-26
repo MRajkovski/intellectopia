@@ -65,3 +65,7 @@ The project follows a structured architecture to maintain code readability and s
 ## Contributors
 - Martin Rajkovski 181557
 - Marko Markovikj 181161
+
+## Sneak Peak
+
+![img text](https://ibb.co/VNP2qxf)
