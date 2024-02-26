@@ -45,22 +45,29 @@ flutter run
 The project follows a structured architecture to maintain code readability and scalability.
 
 ### `lib` Directory
-- `main.dart`: Entry point of the application.
-- `assts/`: Contains static assets used in the application.
-- `auth/`: Auth UI components.
+- `main.dart`: Entry point of the application
+- `app_drawer.dart`: Slidable side menu for navigation
+- `assts/`: Contains static assets used in the application
+- `auth/`: Auth UI components
   - `login.dart`: Login widget
   - `register.dart`: Register widget 
-- `history/`: History UI components used for viewing past quiz results and search history.
-  - `history_page.dart`: History page widget and search history.
-- `premium/`: Premium UI components used for viewing plans and premium features.
-  - `premium_page.dart`: Premium page widget.
-- `quizzes/`: Quiz UI components.
-  - `quiz_main.dart`: Quiz widget .
-  - `quiz_model.dart`: Quiz model.
-  - `quiz_result.dart`: Quiz result widget.
-  - `quizzes_main.dart`: List of quizes widget.
-- `trivia/`: Trivia components.
-  - `trivia_page.dart`: Trivia page widget.
+- `history/`: History UI components used for viewing past quiz results and search history
+  - `history_page.dart`: History page widget and search history
+- `notifications/`: Notifications components
+  - `notifications_page.dart`: Notifications page widget
+- `premium/`: Premium UI components used for viewing plans and premium features
+  - `premium_page.dart`: Premium page widget
+- `quizzes/`: Quiz UI components
+  - `quiz_main.dart`: Quiz widget 
+  - `quiz_model.dart`: Quiz model
+  - `quiz_result.dart`: Quiz result widget
+  - `quizzes_main.dart`: List of available quizzes widget
+- `trivia/`: Trivia components
+  - `trivia_page.dart`: Trivia page widget
+- `user_profile/`: User profile components
+  - `edit_profile.dart`: Page where user can edit account information
+  - `user_profile.dart`: Page where user can view account information
+  - `user_avatar.dart`: Page where user can set their account avatar
 
 ## Contributors
 - Martin Rajkovski 181557
