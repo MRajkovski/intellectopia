@@ -68,4 +68,4 @@ The project follows a structured architecture to maintain code readability and s
 
 ## Sneak Peak
 
-![img text](https://ibb.co/VNP2qxf)
+![img text](https://ibb.co/VNP2qxf](https://i.ibb.co/YWqpLXH/intellectopia-2.png)https://i.ibb.co/YWqpLXH/intellectopia-2.png](https://i.ibb.co/j4FKZB3/intellectopia-login.png)https://i.ibb.co/j4FKZB3/intellectopia-login.png)
