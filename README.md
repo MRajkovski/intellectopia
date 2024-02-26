@@ -66,6 +66,4 @@ The project follows a structured architecture to maintain code readability and s
 - Martin Rajkovski 181557
 - Marko Markovikj 181161
 
-## Sneak Peak
-
-![img text](https://i.ibb.co/j4FKZB3/intellectopia-login.png)
+## Image sneak peak [here](https://ibb.co/album/S5G01s)
