@@ -47,7 +47,7 @@ The project follows a structured architecture to maintain code readability and s
 ### `lib` Directory
 - `main.dart`: Entry point of the application
 - `app_drawer.dart`: Slidable side menu for navigation
-- `assts/`: Contains static assets used in the application
+- `assеts/`: Contains static assets used in the application
 - `auth/`: Auth UI components
   - `login.dart`: Login widget
   - `register.dart`: Register widget 
